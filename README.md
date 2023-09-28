@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=icsray&color=green)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icsray" alt="imeanup" /></a> </p>
+
+
+<p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=icsray&show_icons=true&locale=en&layout=compact" alt="imeanup" ></p>
+
 <!--
 **icsray/icsray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
