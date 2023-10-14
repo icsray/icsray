@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I will be removing all content of LeetCode Editorial.
+No LeetCode Content maintained here.
 
 ![](https://komarev.com/ghpvc/?username=icsray&color=green)
 
