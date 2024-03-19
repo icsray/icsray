@@ -9,9 +9,9 @@ Plans:
 
 ![](https://komarev.com/ghpvc/?username=icsray&color=green)
 
-- 📫 How to reach me, yet to update.
+- 📫 How to reach me.
 
-- Please star this repo and leave a comment in this [GIST]()
+- Please star this repo and leave a comment in this [GIST](https://gist.github.com/icsray/5651cbbf4479f4b4524aea3a1207c493)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icsray" alt="imeanup" /></a> </p>
 
