@@ -11,6 +11,8 @@ Plans:
 
 - 📫 How to reach me, yet to update.
 
+- Please star this repo and leave a comment in this [GIST]()
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icsray" alt="imeanup" /></a> </p>
 
 
