@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I will be sharing all LeetCode Editorial (Premium and Non-premium - Algorithm) with first 10 articles free of cost. Later, at $50 for all 1100+ articles for lifetime access. The fee is nominal as the world is going crazy. I need to support my family.
+I will be sharing all LeetCode Editorial (Premium and Non-premium - Algorithm) with first 10 articles (Fixed/Not random/common to all) free of cost. Later, at $50 for all 1100+ articles for lifetime access. The fee is nominal as the world is going crazy. I need to support my family.
 
 Plans:
 - $50, 1100+ editorials
